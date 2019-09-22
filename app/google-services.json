@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187930492392",
+    "firebase_url": "https://ml-kit-b7baf.firebaseio.com",
+    "project_id": "ml-kit-b7baf",
+    "storage_bucket": "ml-kit-b7baf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187930492392:android:3613581eedae145eb6b85d",
+        "android_client_info": {
+          "package_name": "com.d.textrecognization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187930492392-cf9mmvtdoa6e67010htup11725vk0aj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.d.textrecognization",
+            "certificate_hash": "1e577e384bf13dc064c9fb0714b3316e1f5bb141"
+          }
+        },
+        {
+          "client_id": "187930492392-ojm2ptae65hmga3efut2cgjp90utk42s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0fUmqe8N21kImcbaqWKXxSCPqnGQAOGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187930492392-ojm2ptae65hmga3efut2cgjp90utk42s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
